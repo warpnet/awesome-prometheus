@@ -48,7 +48,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Prometheus Monitoring Tutorial (10 minutes)](https://pagertree.com/blog/prometheus-monitoring-tutorial) - Simple tutorial to create a Prometheus monitoring stack with Grafana, AlertManager, and PagerTree by Austin Miller.
 - [Prometheus-Basics](https://github.com/yolossn/Prometheus-Basics) - Beginner friendly introduction to Prometheus by [yolossn](https://github.com/yolossn).
 - [Setting up Prometheus Monitoring On a Kubernetes Cluster](https://spacelift.io/blog/prometheus-kubernetes) - Setting up Prometheus Monitoring On a Kubernetes Cluster by James Walker.
-- [Automate the Installation of MongoDB](Automate the Installation of MongoDB) - Autoating the installation of MongoDB on Ubuntu using Bash script with CloudRay
+- [Automate the Installation of MongoDB](https://cloudray.io/articles/install-mongodb) - Autoating the installation of MongoDB on Ubuntu using Bash script with CloudRay
 
 ## Books
 - [Monitoring with Prometheus](https://www.prometheusbook.com/) - Monitoring with Prometheus by James Turnbull.
