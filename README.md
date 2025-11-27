@@ -8,25 +8,27 @@
 Prometheus is an open-source systems monitoring and alerting toolkit.
 
 ## Contents
-- [Official resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts and interviews](#podcasts-and-interviews)
-- [Presentations](#presentations)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Deployment tools](#deployment-tools)
-- [Dashboards](#dashboards)
-- [Exporters](#exporters)
+- [Awesome Prometheus  ](#awesome-prometheus--)
+  - [Contents](#contents)
+  - [Official resources](#official-resources)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Podcasts and interviews](#podcasts-and-interviews)
+  - [Presentations](#presentations)
+  - [Blog posts and opinions](#blog-posts-and-opinions)
+  - [Deployment tools](#deployment-tools)
+  - [Dashboards](#dashboards)
+  - [Exporters](#exporters)
     - [Databases](#databases)
     - [Hardware related](#hardware-related)
     - [HTTP](#http)
     - [Other monitoring systems](#other-monitoring-systems)
     - [Miscellaneous](#miscellaneous)
-- [Alertmanager](#alertmanager)
-- [Proxies](#proxies)
-- [High Availability](#high-availability)
-- [Uncategorized](#uncategorized)
+  - [Alertmanager](#alertmanager)
+  - [Proxies](#proxies)
+  - [High Availability](#high-availability)
+  - [Uncategorized](#uncategorized)
 
 ## Official resources
 <!--lint ignore double-link-->
@@ -148,6 +150,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 - [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
 - [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 - [Karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+- [Notificator](https://github.com/SoulKyu/notificator) - Sound-enabled, collaborative Alertmanager dashboard for faster on-call response.
 
 ## Proxies
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - Forwards incoming requests to one of a set of multiple Prometheus instances deployed as HA duplicates of each other using a selector strategy.
