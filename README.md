@@ -143,6 +143,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ### Miscellaneous
 - [Blackbox](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+- [Duplicacy Exporter](https://github.com/GeiserX/duplicacy-exporter) - Real-time Prometheus exporter for Duplicacy backup metrics including speed, progress, and completion status.
 
 ## Alertmanager
 - [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
