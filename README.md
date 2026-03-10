@@ -163,5 +163,6 @@ The lists below contain all the official Prometheus exporters that are maintaine
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
 ## Uncategorized
+- [Ingero](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent with Prometheus metrics endpoint. Traces CUDA APIs and host kernel events, exposes GPU latency percentiles and causal chain metrics.
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 - [PromCon](https://promcon.io/) - The Prometheus conference.
