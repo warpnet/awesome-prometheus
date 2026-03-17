@@ -151,6 +151,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ## Proxies
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) - Forwards incoming requests to one of a set of multiple Prometheus instances deployed as HA duplicates of each other using a selector strategy.
+- [Metrics Aggregator](https://github.com/kaiohenricunha/metrics-aggregator) - A sidecar that scrapes Prometheus metrics from multiple containers in a Kubernetes pod over localhost and exposes them on a single port, working around Istio's single-port metrics-merging limitation.
 - [Promxy](https://github.com/jacksontj/promxy) - Deduplicates data from Prometheus HA pairs.
 - [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
 - [exporter_proxy](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
