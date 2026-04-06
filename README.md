@@ -7,6 +7,7 @@
 
 Prometheus is an open-source systems monitoring and alerting toolkit.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Prometheus monitoring orchestration, automated observability management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [Official resources](#official-resources)
 - [Tutorials](#tutorials)
