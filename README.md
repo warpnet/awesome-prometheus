@@ -143,6 +143,7 @@ The lists below contain all the official Prometheus exporters that are maintaine
 
 ### Miscellaneous
 - [Blackbox](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
+- [Cardamon](https://github.com/dominikhei/cardamon) - Cardamon detects unused metrics in Prometheus and generates drop statements to clean them up and reducing your storage.
 
 ## Alertmanager
 - [Monitoring mixins](https://monitoring.mixins.dev) - Community managed bundles of alerts, recording rules, and Grafana dashboards.
