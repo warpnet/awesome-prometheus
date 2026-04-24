@@ -117,6 +117,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Dashboards
 - [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open-source metric analytics & visualization suite _tutorial by Prometheus_.
 - [Prometheus Monitoring with Grafana](http://logz.io/blog/prometheus-monitoring/) - Prometheus Monitoring with Grafana _tutorial by logz.io_.
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with built-in Prometheus integration, Grafana dashboards, and real-time observability across hybrid edge and cloud environments. CNCF Sandbox project.
 
 ## Exporters
 The lists below contain all the official Prometheus exporters that are maintained by the [Prometheus GitHub organization](https://github.com/prometheus). For a complete list of exporters including any non-official exporters see [prometheus.io](https://prometheus.io/docs/instrumenting/exporters/) or [exporterhub.io](https://exporterhub.io) for a curated list of Prometheus exporters.
